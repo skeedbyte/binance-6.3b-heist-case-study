@@ -1,7 +1,7 @@
 # The $6.3B Binance Heist - Offensive Security Case Study
 ### How 90 Ghost Wallets Drained a CEX | By SkeedByte
 
-> **Case Study of the Largest Crypto Heist in History - November 2025**
+> **Case Study of the Largest Crypto Heist in History - 29 2026**
 
 ### Executive Summary
 In November 2025, over **$6.3 Billion** was siphoned from Binance through 90+ fresh wallets using transaction-level manipulation. Binance officially stated "external compromise of open-source library" but on-chain forensics tells a different story.
